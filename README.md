@@ -6,9 +6,9 @@ An event-driven, multithreaded environmental data logger built on the **ESP32-S3
 
 ## 🎥 Video Demonstration
 
-[![Watch the Demo Video](https://img.shields.io/badge/Watch_Demo_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GV6wOHRsWi37dojuMf0slD0-q2J799mj/view?usp=sharing)
+[![Watch the Demo Video](https://img.shields.io/badge/Watch_Demo_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1RtpV6dzjDXBuI2syLouHdj-MUfGcflbh/view?usp=sharing)
 
-> 🔗 **Video Link:** [Watch the Hardware & Firmware Demo on Google Drive](https://drive.google.com/file/d/1GV6wOHRsWi37dojuMf0slD0-q2J799mj/view?usp=sharing)
+> 🔗 **Video Link:** [Watch the Hardware & Firmware Demo on Google Drive](https://drive.google.com/file/d/1RtpV6dzjDXBuI2syLouHdj-MUfGcflbh/view?usp=sharing)
 
 ---
 
